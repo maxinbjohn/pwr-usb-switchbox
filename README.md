@@ -2,9 +2,9 @@
 PWR-USB Switchbox  - One of those old hardware that happen to be in my storage (good old Nokia memories).
 It is a device that provides 4-channel USB 2.0 switching as well as 4 channel power distribution capabilities. 
 
-URL: http://regius.ee/pwr-usb-switchbox/
-
 Decided to reuse that hardware and learn some Rust on the way.   
+ 
+[<img alt="alt_text" src="images/switchbox.png" />](http://regius.ee/pwr-usb-switchbox/)
 
 ```
 » ./pwr-usb-switchbox -h
