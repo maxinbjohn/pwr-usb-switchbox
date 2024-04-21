@@ -1,0 +1,15 @@
+[package]
+name = "pwr-usb-switchbox"
+version = "0.1.0"
+authors = [
+    "Maxin John <maxin.john@gmail.com>",
+]
+edition = "2021"
+description = "A command line tool to control pwr-usb switchbox."
+repository = "https://github.com/maxinbjohn/pwr-usb-switchbox"
+license = "GPL-2.0"
+keywords = ["usb", "power", "switchbox", "hardware"]
+categories = ["hardware-support"]
+
+[dependencies]
+clap       = "3.1.6"
