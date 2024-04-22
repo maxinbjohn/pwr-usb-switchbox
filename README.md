@@ -4,6 +4,7 @@ It is a device that provides 4-channel USB 2.0 switching as well as 4 channel po
 
 Decided to reuse that hardware and learn some Rust on the way.   
  
+[<img alt="alt_text" src="images/switchbox_front.png" />](http://regius.ee/pwr-usb-switchbox/)
 [<img alt="alt_text" src="images/switchbox.png" />](http://regius.ee/pwr-usb-switchbox/)
 
 ```
